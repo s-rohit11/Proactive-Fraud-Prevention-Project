@@ -1,48 +1,48 @@
-# Proactive Fraud Prevention Project
+# Proactive Fraud Prevention in Banking Systems
 
-**Project type:** BSc Honours Dissertation (ongoing)  
-**Author:** Rohit Saravanan — BSc Computer Science (Cybersecurity) (Hons)
+A security project focused on proactive approaches to fraud prevention in banking systems.
+
+**Author:** Rohit Saravanan  
+**Status:** Prototype complete · Open to commercial adoption discussions
 
 ---
 
 ## Overview
-This repository supports my undergraduate dissertation on **proactive approaches to credit card fraud prevention**.  
-The research focuses on designing and evaluating defensive techniques that detect and discourage fraudulent activity *before* financial loss occurs.
 
-This public repo is a **research showcase** only. Core methods, data, and sensitive implementations are withheld to protect academic integrity and intellectual property.
+Proactive Fraud Prevention in Banking Systems explores ways to identify and disrupt fraudulent activity before financial loss occurs.
 
----
-
-## Research Scope (high-level, non-sensitive)
-- Exploring **decoy-based strategies** (e.g. safe honey data) as tripwires for attacker activity.  
-- Using **synthetic data generation** for controlled, anonymized transaction testing.  
-- Outlining **secure card data protection models** to minimize exposure during fraud attempts.  
-
-*(Note: descriptions here are intentionally broad and exclude sensitive details.)*
-
----
-
-## What this repo contains
-- `README.md` — overview of the project (public-safe).  
-- `docs/` — literature summaries, project roadmap, and safe research notes.  
-- `simulation/placeholder_transaction_generator.py` — placeholder for toy dataset demos (to be completed after dissertation guidelines permit).  
-- `progress_log.md` — research diary of milestones.  
-- `diagrams/` — non-sensitive architecture sketches.  
+The prototype has been developed and is available for discussions about evaluation, adaptation, and commercial adoption.
 
 ---
 
 ## Project Status
-- Literature survey in progress.  
-- Repo skeleton created with placeholders for safe public-facing content.  
-- Core experiments and implementations maintained in private repositories until dissertation submission.  
+
+The prototype is complete and maintained privately.
+
+The next stage is engagement with potential adopters to assess integration requirements, conduct evaluation, and explore deployment opportunities.
 
 ---
 
-## Disclaimer
-This repository does **not** contain sensitive algorithms, proprietary code, or production implementations. It exists for academic presentation purposes only.  
+## Public Repository
+
+This repository provides a limited public overview of the project.
+
+The completed prototype is maintained separately and is not included here. Any research notes, diagrams, or demonstration files in this repository are supporting materials and may reflect earlier development stages.
+
+Implementation details, core methods, and internal documentation remain private to protect intellectual property and future commercial development.
 
 ---
 
-## Licence
-All Rights Reserved.  
-Permission required for reproduction, duplication, or distribution of any materials in this repository.
+## Evaluation & Commercial Enquiries
+
+For enquiries about the prototype, potential collaboration, or commercial adoption, contact [Rohit Saravanan on LinkedIn](https://www.linkedin.com/in/rohit-saravanan-b82a6a210).
+
+Further information may be shared by agreement.
+
+---
+
+## Rights & Permissions
+
+© Rohit Saravanan. All rights reserved.
+
+No licence is granted to use, copy, modify, or distribute the project materials or implementation. Please contact the author to discuss permissions or commercial licensing.
