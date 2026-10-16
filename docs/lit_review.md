@@ -22,7 +22,7 @@ This document summarizes key academic and industry sources relevant to my BSc di
 
 ---
 
-## Industry & Online Resources (selected)
+## Industry & Online Resources
 1. [AppViewX — From SSL to TLS 1.3: 30 Years of Encryption and Innovation](https://www.appviewx.com/blogs/from-ssl-to-tls-1-3-30-years-of-encryption-and-innovation/)  
 2. [SSLDragon — TLS 1.2 vs 1.3](https://www.ssldragon.com/blog/tls-1-2-vs-1-3/)  
 3. [OpenText — What is Tokenization](https://www.opentext.com/what-is/tokenization)  
